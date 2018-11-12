@@ -7,3 +7,4 @@ test 05 sub branch
 change 007 from sub
 test 05 w1223
 my changes 06 from master
+git bc 07
