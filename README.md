@@ -1,6 +1,6 @@
 # My Test
 
-[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/organization/repository)
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://github.com/zhanghnet9/testhub)
 
 
 河南省郑州市中级人民法院
